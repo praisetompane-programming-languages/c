@@ -19,9 +19,8 @@
 	- structuring projects: 
 	- testing: 
 - extending and embedding:
-- compiler/interpreter:
-	- https://github.com/llvm/llvm-project/tree/main/clang
-- memory model: [memory model](src/memory-allocation/memory-model.c)
+- [compiler/interpreter](https://github.com/llvm/llvm-project/tree/main/clang)
+- [memory model](src/memory-allocation/memory-model.c)
 - developer contribution guide:
 - history and usage:
 	- the style of effective programs, with emphasis on idioms
