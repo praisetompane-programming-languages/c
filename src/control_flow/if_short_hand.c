@@ -18,7 +18,7 @@ int main(){
 	int age;
 	scanf("%d",&age);
 
-	printf("%s",age <= 12 ? "Child" :"Teen":"Adult");
+	printf("%s",age <= 12 ? "Child" : "Teen" : "Adult");
 	
 	return 0;
 }
